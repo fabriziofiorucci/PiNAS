@@ -40,10 +40,10 @@ The 'Raspberry Pi 2 plate.stl' model is suitable for a Raspberry Pi 2. A Raspber
 
 <img src="./pics/PiNAS.6.jpg"/>
 
-<img src="./pics/PiNAS.5.jpg"/>
+<img src="./pics/PiNAS.5.png"/>
 
 <img src="./pics/PiNAS.9.jpg"/>
 
 <img src="./pics/PiNAS.8.jpg"/>
 
-<img src="./pics/PiNAS.3.png"/>
+<img src="./pics/PiNAS.3.jpg"/>
