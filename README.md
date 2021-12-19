@@ -28,13 +28,22 @@ The 'Raspberry Pi 2 plate.stl' model is suitable for a Raspberry Pi 2. A Raspber
 - External mains to +12V 5A power supply unit (ie. https://www.aliexpress.com/item/4000859284925.html)
 - 5.5 mm x 2.1mm DC Power Jack Socket (ie. https://www.aliexpress.com/item/32902615756.html)
 - Up to two SATA to USB adapters (ie. https://www.aliexpress.com/item/1005003156749957.html)
-- MP1584EN DC-DC Converter Step Down Voltage Regulator Module (ie. https://www.aliexpress.com/item/4000016331112.html)
+- 2x MP1584EN DC-DC Converter Step Down Voltage Regulator Module (ie. https://www.aliexpress.com/item/4000016331112.html)
 - On-off switch (ie. https://www.aliexpress.com/item/32869269215.html)
 - M3 and M4 screws
 - SATA power and data cables
 - Up to two 3.5" HDD/SSD units
 - Raspberry Pi 2/3/4
 - Cat 5/6 cable
+
+## Schematics
+
+PiNAS is powered by a +12V 5A power supply. Two DC/DC buck converters are used to:
+
+- provide +5v to power the Raspberry Pi
+- provide +5v to power the two HDD units and to inject enough current to the USB/SATA converters. The Raspberry Pi can provide at most a few 100s mA per port
+
+<img src="./pics/Schematic_PiNAS_2021-12-20.svg"/>
 
 ## Complete build
 
