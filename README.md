@@ -18,7 +18,7 @@ All parts should be printed using:
 - 15% infill
 - print plate adhesion raft if needed
 
-The 'Raspberry Pi 2 plate.stl' model is suitable for a Raspberry Pi 2. A Raspberry Pi 4 version will be added here soon.
+The 'Raspberry Pi 2 plate.stl' model is suitable for a Raspberry Pi 2.
 
 
 ## Additional hardware needed
